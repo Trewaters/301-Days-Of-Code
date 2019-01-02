@@ -2,6 +2,16 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 2: [Date]
+
+**Today's Progress:**
+Worked on my reverse array reps. Moved to the iyai Contacts input form. The Connection function is working but I want to understand it more.
+
+**Thoughts:**
+I am jumping around a bit with my work but I have a bunch of topics I am juggling.
+
+**Link to work:**
+This is all on my machine. Linke is a local path (..\CodingWorkshop\iyaiContact-express_gen).
 
 ### Day 1: January 1, 2018
 
