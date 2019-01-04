@@ -2,7 +2,7 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
-### Day #: January 4, 2019
+### Day 4: January 4, 2019
 
 **Today's Progress:**
 Read very little. I had to figure out how to disable a false positive in VS Code when using typescript. This webpage helped me fix the issue (https://github.com/flowtype/flow-for-vscode#setup)
