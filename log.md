@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day #: January 4, 2019
+
+**Today's Progress:**
+Read very little. I had to figure out how to disable a false positive in VS Code when using typescript. This webpage helped me fix the issue (https://github.com/flowtype/flow-for-vscode#setup)
+
+**Thoughts:**
+Switching up my practice to be more guided. I have not stopped working on the iyaiContacts but I think I need to study with more of a purpose. My idea is to follow along with one of the O'Reilly books I have access to. The current one I am using is on TypeScript.
+
+**Link to work:**
+This is the book I am reading ( https://www.amazon.com/Mastering-TypeScript-Second-Nathan-Rozentals/dp/1786468719 )
+Mastering TypeScript - Second Edition 2nd Revised edition Edition
+by Nathan Rozentals 
+
 ### Day 3: January 3, 2019
 
 **Today's Progress:**
