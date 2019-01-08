@@ -3,6 +3,17 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 7: January 7, 2019
+
+*Today's Progress:*
+Busy day. Didn't move forward on any life changing code but I coded. Luckily work is coding sometimes and I did that. I update the water district prices in MS SQL server. Worked through more of the mastering typescript book.
+
+*Thoughts:*
+Need to put in the first part of my day on code or I will not make progress. The time evaporates quickly.
+
+*Link to work:*
+None.
+
 
 ### Day #: January 6, 2019
 
