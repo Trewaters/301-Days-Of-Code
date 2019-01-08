@@ -3,6 +3,19 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 8: January 8, 2019
+
+*Today's Progress:*
+Worked on Mastering typescript. finished chapter 2. 
+
+*Thoughts:*
+I wish I was quicker but since I type out all the examples it takes me longer to get through the material, but I think it sticks better because I am coding it as I go.
+
+*Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap2-functions.ts)
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap2-AdvTypes.ts)
+
+
 ### Day 7: January 7, 2019
 
 *Today's Progress:*
