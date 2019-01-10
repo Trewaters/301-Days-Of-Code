@@ -2,6 +2,7 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
 ### Day 10: January 10, 2019
 
 *Today's Progress:*
@@ -9,6 +10,8 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 I worked on Jasmine, Mocha, Chai testing. Basic slides showing how to test JavaScript.
 
 later I got sucked into a blackhole looking for ways to make githooks. This is a whole area I would need to dive into. Plus strengthen my shell scripting skills. I would prefer to use Powershell of scripting since I am on a windows machine, but I found a perl framework that might be more universal for working with a team.
+
+I was able to get my time in with Mastering Typescript later on. Now I feel like I made progress for the day.
 
 *Thoughts:*
 
