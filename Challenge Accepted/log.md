@@ -5,11 +5,13 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 ### Day 10: January 10, 2019
 
 *Today's Progress:*
+
 I worked on Jasmine, Mocha, Chai testing. Basic slides showing how to test JavaScript.
 
 later I got sucked into a blackhole looking for ways to make githooks. This is a whole area I would need to dive into. Plus strengthen my shell scripting skills. I would prefer to use Powershell of scripting since I am on a windows machine, but I found a perl framework that might be more universal for working with a team.
 
 *Thoughts:*
+
 I am posting this idea for tomorrow (day 10). Work on integrating Github commits with Twitter post. I feel like it is more time than I want to spend making individual posts to Twitter. But posting to Twitter daily is what motivates others and helps me get visibility so it is important for the bigger picture. BUT why not automate that menial tasks with code.
 
 Resources (from a quick Google search):
@@ -29,6 +31,7 @@ Githooks could be another approach ( https://git-scm.com/docs/githooks )
 
 
 *Link to work:*
+
 I don't want to share all the files I worked in today because it would be too many. Just say I did a thing and that thing made me happy! :smile:
 
 ### Day 9: January 9, 2019
@@ -68,7 +71,7 @@ Need to put in the first part of my day on code or I will not make progress. The
 None.
 
 
-### Day #: January 6, 2019
+### Day 6: January 6, 2019
 
 **Today's Progress:**
 Worked through Chapter 1 variables.
@@ -80,7 +83,7 @@ I don't enjoy covering basic materials but it is good to slow down and look at t
 (...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap2-variables.ts)
 
 
-### Day #: January 5, 2019
+### Day 5: January 5, 2019
 
 **Today's Progress:**
 Jasmine, Mocha, Chai testing. Some wordpress updates for work.
