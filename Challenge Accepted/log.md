@@ -2,6 +2,46 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 10: January 10, 2019
+
+*Today's Progress:*
+I worked on Jasmine, Mocha, Chai testing. Basic slides showing how to test JavaScript.
+
+later I got sucked into a blackhole looking for ways to make githooks. This is a whole area I would need to dive into. Plus strengthen my shell scripting skills. I would prefer to use Powershell of scripting since I am on a windows machine, but I found a perl framework that might be more universal for working with a team.
+
+*Thoughts:*
+I am posting this idea for tomorrow (day 10). Work on integrating Github commits with Twitter post. I feel like it is more time than I want to spend making individual posts to Twitter. But posting to Twitter daily is what motivates others and helps me get visibility so it is important for the bigger picture. BUT why not automate that menial tasks with code.
+
+Resources (from a quick Google search):
+- https://gist.github.com/kylefrost/f3841e76749dc64f4b5e (not really working any longer)
+- https://zapier.com/apps/github/integrations/twitter
+- https://ifttt.com/connect/github/twitter
+
+API links:
+- https://developer.twitter.com/en/docs/tweets/post-and-engage/overview
+- https://developer.github.com/v3/activity/events/types/#commitcommentevent
+
+all Github api calls go to (https://api.github.com)
+
+Githooks could be another approach ( https://git-scm.com/docs/githooks )
+- https://githooks.com/ , has examples
+- https://github.com/gnustavo/Git-Hooks , PERL framework for githooks
+
+
+*Link to work:*
+I don't want to share all the files I worked in today because it would be too many. Just say I did a thing and that thing made me happy! :smile:
+
+### Day 9: January 9, 2019
+
+*Today's Progress:*
+Worked on Mastering typescript. working through classes, interfaces and constructors in typescript.
+
+*Thoughts:*
+The basics make me want to fast forward but I am forcing myself to read every word and make sure I catch the details. I was thinking it would be cool to have automation that post my log to twitter so I don't have to.
+
+*Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap3-classes.ts)
+
 
 ### Day 8: January 8, 2019
 
