@@ -73,7 +73,7 @@ None.
 
 ### Day 6: January 6, 2019
 
-**Today's Progress:**
+**Today's Progress:** :sunrise_over_mountains:
 Worked through Chapter 1 variables.
 
 *Thoughts:*
@@ -149,9 +149,9 @@ https://1drv.ms/u/s!ArF9Q3XlqtRQhtsJ3ehTKqslCMTTiQ
 
 ### Day #: [Date]
 
-*Today's Progress:*
+:sunrise_over_mountains::sunny: *Today's Progress:* 
 
-*Thoughts:*
+:thought_balloon: *Thoughts:*
 
-*Link to work:*
+:floppy_disk: *Link to work:*
 
