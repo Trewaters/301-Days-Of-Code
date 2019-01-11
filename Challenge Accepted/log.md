@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 11: January 11, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Worked through more mastering typescript.
+
+:thought_balloon: *Thoughts:*
+Same thing as the other day. I know the concepts so going through it is tough to do, but I need to if I plan on learning this the right way. This makes me want to skip over sections but I don't know the Typescript way of dealing with this concepts so that means I have to stick with it. Once I make it through the rewards will be evident. 
+
+:floppy_disk: *Link to work:*
+When I go through basics I save the code samples to a file that I can reference later. This is my way of taking notes with live code.
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap3-classes.ts)
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap3-Inheritance.ts)
+
 
 ### Day 10: January 10, 2019
 
