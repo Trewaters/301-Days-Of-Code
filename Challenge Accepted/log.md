@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 12: January 12, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+I worked through part of a chapter in Mastering Typescript by Nathan Rozentals.
+
+:thought_balloon: *Thoughts:*
+I am in the classes and inheritance chapter. I must like OOP because I get excited when I can cover concepts like inheritance and get/set. I didn't realize it because I have been focusing on JS lately and there is less opportunity to do that with JS. Hopefully I will get to put more time in on this chapter today but we will see how things shape up.
+
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap3-Inheritance.ts)
+
+
 ### Day 11: January 11, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
