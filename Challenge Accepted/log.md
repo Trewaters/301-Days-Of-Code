@@ -2,6 +2,18 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 13: January 13, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Finished up the chapter on classes. Tired and busy but made it happen.
+
+:thought_balloon: *Thoughts:*
+I enjoyed it, but my brain started to get scrambled when they introduced abstract classes. Plus I was annoyed having to write a constructor for every class. abstraction and extending is something I will have to play around with more.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Chap3-Inheritance.ts)
+
+
 ### Day 12: January 12, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
