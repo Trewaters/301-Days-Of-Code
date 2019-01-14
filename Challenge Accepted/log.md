@@ -2,6 +2,18 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 14: January 14, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Did a great summary of interfaces, classes and inheritance with a factory design pattern.
+
+:thought_balloon: *Thoughts:*
+I enjoyed covering those concepts I just refreshed myself on yesterday. The example isn't perfect so I have compile bugs every time that I need to fix and that has been super duper helpful. I get to puzzle through what the error is telling me.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch3-Factory.ts)
+
+
 ### Day 13: January 13, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
