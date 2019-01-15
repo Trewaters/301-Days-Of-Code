@@ -2,6 +2,18 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 15: January 15, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Got into Typescript decorators.
+
+:thought_balloon: *Thoughts:*
+This was a bit frustrating because the decorators are Ecmascript7 and experimental in typescript. I think the books examples were in an older format so every time I went to compile I got errors. I didn't want to get sucked into a black hole of trying to fix the issue. You sometimes have to cut your losses. If something is experimental and you don't have a lot of time then that would be something to come back to later.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch4-decorators.ts)
+
+
 ### Day 14: January 14, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
