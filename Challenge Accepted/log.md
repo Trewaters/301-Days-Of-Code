@@ -2,6 +2,18 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 16: January 16, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Made good progress on Mastering Typescript. started next part of chapter.
+
+:thought_balloon: *Thoughts:*
+alot of the begining work was causing compile errors, which makes it harder for me to follow. I need working examples so I can see what works for the computer. Since these are experimental I didn't stress on it. I have moved to generics and that is much more straight forward, even though I am ending on a compile error because I ran out of time. Must go to an appointment NOW!!
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch4-Generics.ts)
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch4-decorators.ts)
+
 ### Day 15: January 15, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
