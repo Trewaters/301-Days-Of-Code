@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 17: January 17, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Worked through more of the mastering typescript book. Finished up generics today.
+
+:thought_balloon: *Thoughts:*
+I can tell that I don't have a strong grasp of abstract classes, implements, and super(). I kind of get them but I struggle to fix them when there is a bug. That is okay. The foundation is there I just need more examples to strengthen my understanding.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch4-Generics.ts)
+
+
 ### Day 16: January 16, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
