@@ -2,6 +2,17 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 18: January 18, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Finished chapter 4 with generics etc. Now time to move on.
+
+:thought_balloon: *Thoughts:*
+The whole chapter was interesting and will need to be revisited. I won't be re-reading this chapter but looking for chances to use generics, decorators and async. The examples in the book had issues. I think part of the problem was my ts compiler was set to es5. Things got a lot better when I bumped it up to es2015. All this is important material and I plan to practice it until I have it down.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch4-Async.ts)
+
 
 ### Day 17: January 17, 2019
 
