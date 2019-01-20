@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 19: January 19, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Worked on an error I am getting from another project. My API is not returning data to the webpage, which is a problem I am getting help with. The rest of my time I am working on declaration files in the Mastering Typescript book.
+
+:thought_balloon: *Thoughts:*
+The API issue I am trying to handle is going through stackoverflow. I wrote a question that didn't have enough information for folks to help me. It is a balance trying to include enough code so other can help you and not including your entire code base. I struggle with this every time I ask a question on there. The other work I did this hour was to work through my book and that went quick. Today's practice was really trying to get the work in today and not miss it.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch5-declarations.ts)
+
+
 ### Day 18: January 18, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
