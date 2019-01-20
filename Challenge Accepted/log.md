@@ -3,6 +3,18 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 20: January 20, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Got an answer for my API issue this morning. I needed to write my function to return a promise. After that issue was resolved. I moved on to Mastering TypeScript. Working with declarations more.
+
+:thought_balloon: *Thoughts:*
+I was happy to get an answer to my API issue. But I lost points on stackoverflow because they deemed it a duplicate question. I don't agree but I can't change it so whatever. I got the answer I needed and that is what really matters... TO ME. It shows I need to work with promises and get to understand asynch functions in JavaScript. I knew there was an async issue but I didn't know how to resolve it. As for Mastering Typescript, I am bored. The declarations section covers things that I won't do regularly but still need to know. Excited to move on to testing in a couple chapters, but for now 3rd party libraries are next.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch5-decSyntax.ts)
+
+
 ### Day 19: January 19, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
