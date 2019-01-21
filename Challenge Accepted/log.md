@@ -3,6 +3,17 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 21: January 21, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+Working through more of the Mastering Typescript book. Chapter 6 is covering older libraries so I skipped past it because I would have to relearn it later with the updates. Might as well work with the modern versions from the start, since I have a choice. I wouldn't skip if I needed to work with old code.
+
+:thought_balloon: *Thoughts:*
+I had to skip some material because it was dated but I did like the section on React. Probably because I don't know much about React so this was informative. I had to laugh a little because React adds extra steps to the development process but my coding peers seem to LOVE it. I don't get it but maybe with some experience I will. I am still an Angular (version 7) fanboy.
+
+:floppy_disk: *Link to work:*
+
+
 ### Day 20: January 20, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
