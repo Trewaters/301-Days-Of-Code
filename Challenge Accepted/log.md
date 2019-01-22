@@ -3,6 +3,19 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day #: [Date]
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+I worked through another chapter of the Mastering Typescript book. Ended part way into TDD chapter focused on Jasmine.
+
+:thought_balloon: *Thoughts:*
+It is more fun when I am covering something that is or seems exciting. Like Jasmine testing. I need to write more test and it was exciting to crack into TypeScript and testing. I am intrigued to see how it is done.
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch8-Jasmine.ts)
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch7-libraries.ts)
+
+
 ### Day 21: January 21, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
@@ -10,8 +23,6 @@ Working through more of the Mastering Typescript book. Chapter 6 is covering old
 
 :thought_balloon: *Thoughts:*
 I had to skip some material because it was dated but I did like the section on React. Probably because I don't know much about React so this was informative. I had to laugh a little because React adds extra steps to the development process but my coding peers seem to LOVE it. I don't get it but maybe with some experience I will. I am still an Angular (version 7) fanboy.
-
-:floppy_disk: *Link to work:*
 
 
 ### Day 20: January 20, 2019
@@ -203,9 +214,6 @@ Busy day. Didn't move forward on any life changing code but I coded. Luckily wor
 
 *Thoughts:*
 Need to put in the first part of my day on code or I will not make progress. The time evaporates quickly.
-
-*Link to work:*
-None.
 
 
 ### Day 6: January 6, 2019
