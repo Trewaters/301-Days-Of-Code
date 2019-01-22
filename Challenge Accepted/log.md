@@ -3,7 +3,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
-### Day #: [Date]
+### Day 22: January 22, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 I worked through another chapter of the Mastering Typescript book. Ended part way into TDD chapter focused on Jasmine.
