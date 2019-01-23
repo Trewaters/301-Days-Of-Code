@@ -3,6 +3,13 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 23: January 23, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* I wanted to work on my iyai contacts project. Made some progress this morning.
+
+:thought_balloon: *Thoughts:* I really need to keep my nose to the grind stone the mastering typescript book. BUT I was so close to having my iyai contact issue solved that I wanted to finish that. I can't have too much time away from my projects.
+
+
 ### Day 22: January 22, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
