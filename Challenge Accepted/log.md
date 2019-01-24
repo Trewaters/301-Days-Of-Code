@@ -3,6 +3,16 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 24: January 24, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Still working through Mastering Typescript. On chapter dealing with modularization. I skipped some of the framework specific sections before this one. 
+
+:thought_balloon: *Thoughts:* The book is okay. I think it spends too much time on framework specific uses of Typescript. But I have found useful parts for me. Oh yeah it could have spent more time on setting up a build server with Typescript. 
+
+:floppy_disk: *Link to work:*
+(...\Coding Work Study\JavaScript Exercises\webRoot\exercises\typescript\Ch10-Modules.ts)
+
+
 ### Day 23: January 23, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* I wanted to work on my iyai contacts project. Made some progress this morning.
