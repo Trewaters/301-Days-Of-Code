@@ -3,6 +3,13 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 25: January 25, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Finished the Mastering Typescript book. 
+
+:thought_balloon: *Thoughts:* It started off fine but then the later more advanced samples didn't have enough Typescript to keep me interested. I was skimming through sections because most of it was dealing with other frameworks that were outdated. I know that Angular for example is on version 7 not 2 and it wouldn't help me to go learn 2 becasue I am not working on that type of project. I don't want to learn something that I feel I will have to unlearn. Also some of the Typescript examples were just showing me what npm packages to include more than how to use Typescript to craft something special. The book could have stopped halfway through and I would have been content.
+
+
 ### Day 24: January 24, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Still working through Mastering Typescript. On chapter dealing with modularization. I skipped some of the framework specific sections before this one. 
