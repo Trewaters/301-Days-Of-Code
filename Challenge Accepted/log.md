@@ -3,6 +3,17 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+
+### Day 26: January 26, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked for a long time trying to add a nested list using vanilla javascript.
+
+:thought_balloon: *Thoughts:* It is times like this I don't feel so smart. I spent a long time working with nodes and appending the data being retrieved from the api call. I am trying to add the nodes and content but it is not working as expected. If I plan to be awesome in the field I need to get this kind of stuff down.
+
+:floppy_disk: *Link to work:*
+iyai-contacts
+
+
 ### Day 25: January 25, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Finished the Mastering Typescript book. 
