@@ -3,6 +3,12 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 27: January 27, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked on the contacts page more. I am stuck trying to query the db to find matching contacts.
+
+:thought_balloon: *Thoughts:* Times like this I get frustrated. I thought I had this but when I try to go in and make the request I get errors. This time I am stuck on req.body vs req.params vs req.query. Which has my data. I see it being sent but the API is not processing it properly. Which is my fault. I will find it soon enough but frustrating not to get it immediately. This is not the first time I have had this issue. Once I find the correct syntax then it is easy.
+
 
 ### Day 26: January 26, 2019
 
