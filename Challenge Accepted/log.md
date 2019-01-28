@@ -3,6 +3,15 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 28: January 28, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Fixed issue with searching database and displaying data to website.
+
+:thought_balloon: *Thoughts:* I feel like I spend too much time on simple stuff. I found what my problem was. I have a looping issue but I am moving on because it is only adding 1 extra line to my output. I can fix that at a later date. Since I have spent so much time working on this item I want to move on.
+
+:floppy_disk: *Link to work:* iyaiContacts webpage
+
+
 ### Day 27: January 27, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Worked on the contacts page more. I am stuck trying to query the db to find matching contacts.
