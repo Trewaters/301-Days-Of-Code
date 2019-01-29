@@ -3,6 +3,15 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 29: January 29, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* I am working on an import feature that will allow the user to import zoho CRM contacts. I got part of the feature working. The user is able to select a file and those results are printed to the screen. Next step is to load that data into a variable that will transport it to the MongoDB and stored permanently.
+
+:thought_balloon: *Thoughts:* I had to get help on this. I don't usually read files from the local machine with JavaScript. I found the API FileReader. It is suggested to use the array buffer method, but I have never worked with array buffers before. I was lucky and found some functions to help me convert from array buffer to string. I will play with this some more. Even though I got it to work I don't fully understand everything happening under the hood.
+
+:floppy_disk: *Link to work:*
+iyaiContacts webpage
+
 ### Day 28: January 28, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Fixed issue with searching database and displaying data to website.
