@@ -2,6 +2,16 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 31: January 31, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Working on parsing data from CSV. I am trying to think through this myself.
+
+:thought_balloon: *Thoughts:* So far so good. I can think through it but I am learning regex and that is slowing me down. I like that I can puzzle my way through this. Makes me feel better.
+
+:floppy_disk: *Link to work:* iyaiContacts
+
+
 ### Day 30: January 30, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* None.
