@@ -2,6 +2,14 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 32: February 1, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* I finally got the regex experession I needed to parse the csv data. Something is off by one but I am going to push forward and troubleshoot that in the future. I have it close enough to move on to the rest of my code. This part of the application will allow the user to import a csv file from ZohoCRM. I will have more imports in the future but I plan to have the company use ZohoCRM along side this app.
+
+:thought_balloon: *Thoughts:* It seems I was overthinking the regex. I went to stackoverflow in frustration. Which led me to copy and paste complicated solutions I didn't fully understand. AND none of them worked the way I needed. So I took a deep breath and started working it out myself, again. That worked! Yay. It is the small success that can sometimes feel the best.
+
+:floppy_disk: *Link to work:* iyaiContacts
+
 
 ### Day 31: January 31, 2019
 
