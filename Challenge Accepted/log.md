@@ -2,6 +2,15 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 33: February 2, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Working on the contacts import button. I got the import button working and displaying the data from the CSV as a table. Yay!
+
+:thought_balloon: *Thoughts:* I realized that it is great that I got the csv data to display as a table. I was working on the wrong issue. Somewhere I got crossed and worried about displaying the data before it was added to the MongoDB. I need to figure out adding the data to my MongoDB. That shouldn't be a big issue but I have to plan it. The headers in the CSV don't match my current DB schema. Zoho has more data than I need. The labels for that data don't match the fields I am using in my MongoDB. I will need to do some data massaging to get it to match what I want before importing. All in all things are going well but I got so focused on solving one issue that I worked in the wrong direction for a little bit. If that makes sense to all of you.
+
+:floppy_disk: *Link to work:* iyaiContacts
+
+
 ### Day 32: February 1, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* I finally got the regex experession I needed to parse the csv data. Something is off by one but I am going to push forward and troubleshoot that in the future. I have it close enough to move on to the rest of my code. This part of the application will allow the user to import a csv file from ZohoCRM. I will have more imports in the future but I plan to have the company use ZohoCRM along side this app.
