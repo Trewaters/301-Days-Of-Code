@@ -2,6 +2,30 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 35: February 4, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Holy smokes I made some great progress today. I didn't finish the database update to my application but I created a couple of branches for the work I am doing.
+
+:thought_balloon: *Thoughts:* So funny thing happened while I was working on the iyaiContact database. It wasn't in github. Doesn't sound like a big deal until you killing the app that was working to add this abstract change. I don't like breaking what works until I can fix it. Sometimes the refactor is so deep that it gets complicated to make it work again. So how would someone solve this issue. WELL a developer would add the changes as branches and leave the live production data alone. That is what I did today.
+  1) created a public github repo called "iyaiContacts"
+  2) pushed my current files github
+  3) created remotes for this work
+  4) created branches
+  5) pushed my new code to the branches
+  6) reverted the master back to my original working code.
+I have to say I am very happy with myself. This didn't start as a github repo because I didn't think about it until I wanted to revert my changes and realized I couldn't do that without a repo.
+
+:floppy_disk: *Link to work:* [iyaiContacts](https://github.com/Trewaters/iyaiContacts)
+
+
+
+### Day 34: February 3, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Didn't do much.
+
+:thought_balloon: *Thoughts:* I had a busy day and didn't get the hour of code I like but I was able to get my computer open for a minute, so the day counts.
+
+
 ### Day 33: February 2, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Working on the contacts import button. I got the import button working and displaying the data from the CSV as a table. Yay!
