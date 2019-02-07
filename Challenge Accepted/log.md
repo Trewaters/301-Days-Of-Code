@@ -2,6 +2,38 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 7: February 7, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Finished up making the features work. 
+
+:thought_balloon: *Thoughts:* I could walk away from this with a good conscience now. It needs more work but it is an MVP showing basic concepts. 
+
+_What is left?_
+- Verify user web input is valid. This avoids errors and security exploits
+- "Make it pretty!" This is important but not necessary. If I plan to have people use this in a demo it will need to look nice. I planned on using bootstrapp to accomplish that.
+- Refactor the code. This app could be made better by pulling duplicate code into functions.
+- Code Review.
+
+:floppy_disk: *Link to work:*
+
+### Day 37: February 6, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Mapped Zoho db columns to my MongoDB columns.
+
+:thought_balloon: *Thoughts:* This is part of that planning that needs to happen for everyone. It was funny because I didn't think about it until I made the import work. This is something that should happen at the start. Shows how rusty I am.
+
+:floppy_disk: *Link to work:* iyaiContacts
+
+### Day 36: February 5, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Slow progress. I guess I always feel like it should have taken less time. Able to update the MongoDB.
+
+:thought_balloon: *Thoughts:* I want to do a couple more things then I will update the master with this. That will bring this closer to being done, for now.
+
+:floppy_disk: *Link to work:* iyaiContacts
+
+
 ### Day 35: February 4, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Holy smokes I made some great progress today. I didn't finish the database update to my application but I created a couple of branches for the work I am doing.
