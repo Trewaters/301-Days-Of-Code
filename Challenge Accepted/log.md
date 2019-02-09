@@ -2,6 +2,14 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 39: February 8, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Work with Twilio API
+
+:thought_balloon: *Thoughts:* app was super easy to set up. I only did the basics. Twilio handles a lot of the heavy lifting. I want to see how I can use it for my iyaiContacts app. One of the features is to have the user text in a contact for iyai.
+
+:floppy_disk: *Link to work:* Twilio basic app
+
 
 ### Day 38: February 7, 2019
 
@@ -17,6 +25,7 @@ _What is left?_
 
 :floppy_disk: *Link to work:*
 
+
 ### Day 37: February 6, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Mapped Zoho db columns to my MongoDB columns.
@@ -24,6 +33,7 @@ _What is left?_
 :thought_balloon: *Thoughts:* This is part of that planning that needs to happen for everyone. It was funny because I didn't think about it until I made the import work. This is something that should happen at the start. Shows how rusty I am.
 
 :floppy_disk: *Link to work:* iyaiContacts
+
 
 ### Day 36: February 5, 2019
 
@@ -48,7 +58,6 @@ _What is left?_
 I have to say I am very happy with myself. This didn't start as a github repo because I didn't think about it until I wanted to revert my changes and realized I couldn't do that without a repo.
 
 :floppy_disk: *Link to work:* [iyaiContacts](https://github.com/Trewaters/iyaiContacts)
-
 
 
 ### Day 34: February 3, 2019
