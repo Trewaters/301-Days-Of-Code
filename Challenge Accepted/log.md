@@ -2,6 +2,25 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 41: February 10, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Created a working SMS app with Twilio. 
+
+:thought_balloon: *Thoughts:* Work with Twilio API some more. It was easy to create an SMS route and respond to a message. I used Heroku to deply my app instead of the ngrok they use in the example. I like Heroku and it has been a while since I used it. I am glad I did. With my more advanced knowledge of git I was able to use the heroku cli no problem. It was super easy to deploy the app.
+
+:floppy_disk: *Link to work:* https://twil-test.herokuapp.com/
+
+
+### Day 40: February 9, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Started with Angular 6.
+
+:thought_balloon: *Thoughts:* I have been working with VanillaJS and that was educational but a lot of folks are using frameworks and libraries to code their applications. The framework I like and want to get better at is Angular. I will be using a book that will help with that "Building Large-Scal Web Applications with Angular" by Kevin Hennessy, Chandermani Arora, Christoffer Noring, and Doguhan Uluca. I have a subscription with oreilly press. The book is from there. I look for books that have been recently published. This is only a few months old being published in December 2018.
+
+:floppy_disk: *Link to work:* Angular 6 exercise tutorial.
+
+
 ### Day 39: February 8, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Work with Twilio API
