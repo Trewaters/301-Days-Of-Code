@@ -3,6 +3,15 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 42: February 11, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* UnMock course on Udemy.
+
+:thought_balloon: *Thoughts:* I met Mike Solomon last week at SFNode. He talked about their company's (Meeshkan) product unmock. It has a Udemy video for it so I was working through that. I only got started this morning so I haven't had time to finish it today, but I will get into it later today when I get back.
+
+:floppy_disk: *Link to work:* https://www.udemy.com/building-apps-with-third-party-integrations/
+
+
 ### Day 41: February 10, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Created a working SMS app with Twilio. 
