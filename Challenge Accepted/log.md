@@ -2,10 +2,52 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 46: February 15, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Software Design Docs
+- Create Angular app that connects to BART API.
+
+:thought_balloon: *Thoughts:* I found a great article on design docs. It reminded me that I have always done this in the past just didn't realize there was a real name for it. I do it at work to make sure I can remember why it was important to do the project in the first place. I also used it as a way to get back up to speed because I would have to put things down for unknown extended amounts of times. If I was lucky it would be a day. Usually it was weeks I would work on something else. 
+
+:floppy_disk: *Link to work:*
+
+### Day 45: February 14, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Looking at the Unmock code base. Read what unfamiliar npm packages do. Helps me get a better understanding of what is happening in the code.
+- Angular CLI
+
+:thought_balloon: *Thoughts:* I am seeing things that I haven't seen done in code before. I am learning how to write better code by looking at other peoples code. I was all over the place. I read all the packages in the unmock package json. It was cool to see things they are using and trying to see how they are being implemented in the code. I learned some things but I found more to learn. I also found myself all over the place. The problem with research is it mostly requires the internet. The problem with the internet is it is full of distracting information. I worked for hours but I also went on tangents for hours. In the end it felt like half the day was productive and the other half could have been spent with more focus haha. In the end I feel good and Friday is a new day.
+
+:floppy_disk: *Link to work:* https://github.com/unmock/unmock-js
+
+
+### Day 44: February 13, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Worked on unmock some more. Got it loaded on my computer.
+
+:thought_balloon: *Thoughts:* unmock is nice but I will have to do more testing. I also needed to figure out a technology I should use to make API calls.
+
+:floppy_disk: *Link to work:* https://github.com/unmock/unmock-js
+
+
+### Day 43: February 12, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- UnMock course on Udemy.
+
+:thought_balloon: *Thoughts:* Finished the unmock Udemy course. I was able to create a github of both their repos. I looked through the code base to get an idea of what they are working on. Made some very small changes to their readme.
+
+:floppy_disk: *Link to work:* https://www.udemy.com/building-apps-with-third-party-integrations/
+
+
 
 ### Day 42: February 11, 2019
 
-:sunrise_over_mountains::sunny: *Today's Progress:* UnMock course on Udemy.
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- UnMock course on Udemy.
 
 :thought_balloon: *Thoughts:* I met Mike Solomon last week at SFNode. He talked about their company's (Meeshkan) product unmock. It has a Udemy video for it so I was working through that. I only got started this morning so I haven't had time to finish it today, but I will get into it later today when I get back.
 
