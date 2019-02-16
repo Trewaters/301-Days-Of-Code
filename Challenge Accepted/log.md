@@ -8,7 +8,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 - Software Design Docs
 - Create Angular app that connects to BART API.
 
-:thought_balloon: *Thoughts:* I found a great article on design docs. It reminded me that I have always done this in the past just didn't realize there was a real name for it. I do it at work to make sure I can remember why it was important to do the project in the first place. I also used it as a way to get back up to speed because I would have to put things down for unknown extended amounts of times. If I was lucky it would be a day. Usually it was weeks I would work on something else. 
+:thought_balloon: *Thoughts:* I found a great article on design docs. It reminded me that I have always done this in the past just didn't realize there was a real name for it. I do it at work to make sure I can remember why it was important to do the project in the first place. I also used it as a way to get back up to speed because I would have to put things down for unknown extended amounts of times. If I was lucky it would be a day. Usually it was weeks I would work on something else. -- Having the bulleted list of today's progress helped me stay on track.
 
 :floppy_disk: *Link to work:*
 
@@ -531,3 +531,10 @@ https://1drv.ms/u/s!ArF9Q3XlqtRQhtsJ3ehTKqslCMTTiQ
 
 :floppy_disk: *Link to work:*
 
+### Roadmap
+
+A list of topics I run across but don't have time for today. This will list them so I can come back to them and work on it later.
+- (2/15/2019) - Tutorial to build 1st PWA, [found here](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html)
+  - includes [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.html#0)
+  - includes [Adding Push Notifications to a Web App](https://codelabs.developers.google.com/codelabs/push-notifications/#0)
+- (2/15/2019) - Material components for the web, [found here](https://codelabs.developers.google.com/codelabs/mdc-101-web/index.html?index=..%2F..index#0)
