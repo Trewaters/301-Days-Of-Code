@@ -2,6 +2,15 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 47: February 16, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- angular HttpClient
+
+:thought_balloon: *Thoughts:* Made good progress on the httpclient. I got it working and feeling good about it.
+
+:floppy_disk: *Link to work:*
+
 ### Day 46: February 15, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
