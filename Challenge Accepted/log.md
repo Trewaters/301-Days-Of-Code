@@ -2,6 +2,14 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 48: February 17, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked with objects and APIs today. Made great progress.
+
+:thought_balloon: *Thoughts:* I have an API returning a large object with lots of nested data. I was having issues reading it but I looked at a few solutions. I came up with a BJD kata to go along with this.
+
+:floppy_disk: *Link to work:* eastBayTravelApp (`...\CodingWorkshop\Angular CLI practice\eastBayTravel`)
+
 ### Day 47: February 16, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
