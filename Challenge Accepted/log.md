@@ -2,6 +2,16 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 49: February 18, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Worked on Angular httpclient call to BART API.
+- adding unmock to Angular test.
+
+:thought_balloon: *Thoughts:* Time time time. I keep expecting everything to go quicker than it does. I must learn to accept the amount of time I have devoted on an item as the amount of time it takes. Nuff said. Today I focused on Angular http client calls and that was educational. I also started working out how to add unmock to Angular test. I didn't get it all setup today but I made a start.
+
+:floppy_disk: *Link to work:* eastBayTravelApp (`...\CodingWorkshop\Angular CLI practice\eastBayTravel`)
+
 ### Day 48: February 17, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Worked with objects and APIs today. Made great progress.
@@ -547,11 +557,3 @@ https://1drv.ms/u/s!ArF9Q3XlqtRQhtsJ3ehTKqslCMTTiQ
 :thought_balloon: *Thoughts:*
 
 :floppy_disk: *Link to work:*
-
-### Roadmap
-
-A list of topics I run across but don't have time for today. This will list them so I can come back to them and work on it later.
-- (2/15/2019) - Tutorial to build 1st PWA, [found here](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html)
-  - includes [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.html#0)
-  - includes [Adding Push Notifications to a Web App](https://codelabs.developers.google.com/codelabs/push-notifications/#0)
-- (2/15/2019) - Material components for the web, [found here](https://codelabs.developers.google.com/codelabs/mdc-101-web/index.html?index=..%2F..index#0)
