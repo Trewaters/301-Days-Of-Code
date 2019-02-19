@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 50: February 19, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Angular BART API app
+- unmock testing
+
+:thought_balloon: *Thoughts:* Sometimes it is the smallest things that bring the greatest joy. I had a few angular cli warnings and I was able to resolve them. The first was my global version is higher than the local repo version I downloaded. That was easy to correct. The second was an ambiguous warning about multiple projects. I found the answer on [github](https://github.com/angular/angular-cli/issues/11532) and used it to solve my issue. For me that is next level. I didn't have to ask around I used my google-fu to fix it.
+
+:floppy_disk: *Link to work:* [Angular by example book, 7 minute workout](https://www.amazon.com/Angular-Example-running-building-real-world/dp/1788835174)
+:egg:
+:beer:
+:sleeping::zzz:
+
 ### Day 49: February 18, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
@@ -11,6 +24,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :thought_balloon: *Thoughts:* Time time time. I keep expecting everything to go quicker than it does. I must learn to accept the amount of time I have devoted on an item as the amount of time it takes. Nuff said. Today I focused on Angular http client calls and that was educational. I also started working out how to add unmock to Angular test. I didn't get it all setup today but I made a start.
 
 :floppy_disk: *Link to work:* eastBayTravelApp (`...\CodingWorkshop\Angular CLI practice\eastBayTravel`)
+
 
 ### Day 48: February 17, 2019
 
@@ -557,3 +571,6 @@ https://1drv.ms/u/s!ArF9Q3XlqtRQhtsJ3ehTKqslCMTTiQ
 :thought_balloon: *Thoughts:*
 
 :floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
