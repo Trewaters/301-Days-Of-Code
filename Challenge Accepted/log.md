@@ -2,10 +2,36 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 52: February 21, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+
+:thought_balloon: *Thoughts:*
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 51: February 20, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Angular 7 BART API app
+- Angular testing
+
+:thought_balloon: *Thoughts:* I worked hard to figure out how Angular API connections work. I was stuck trying to use an Observable like a JSON object so I got weird errors. Once I read the [documentation](https://angular.io/guide/http) and example a few more times I realized what was happening. Things got easier after that. 
+
+:floppy_disk: *Link to work:* ( `...\CodingWorkshop\Angular CLI practice\eastBayTravel` )
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 50: February 19, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
-- Angular BART API app
+- Angular example
 - unmock testing
 
 :thought_balloon: *Thoughts:* Sometimes it is the smallest things that bring the greatest joy. I had a few angular cli warnings and I was able to resolve them. The first was my global version is higher than the local repo version I downloaded. That was easy to correct. The second was an ambiguous warning about multiple projects. I found the answer on [github](https://github.com/angular/angular-cli/issues/11532) and used it to solve my issue. For me that is next level. I didn't have to ask around I used my google-fu to fix it.
@@ -14,6 +40,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :egg:
 :beer:
 :sleeping::zzz:
+
 
 ### Day 49: February 18, 2019
 
