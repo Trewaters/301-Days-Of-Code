@@ -4,11 +4,13 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 ## Log
 ### Day 52: February 21, 2019
 
-:sunrise_over_mountains::sunny: *Today's Progress:* 
+:sunrise_over_mountains::sunny: *Today's Progress:*
+- adding unmock test to BART API app. 
+- Build BART API app again from scratch.
 
-:thought_balloon: *Thoughts:*
+:thought_balloon: *Thoughts:* I built the app from scratch and got new errors. That was good and bad because the same error as yesterday did not raise its head. I was able to google and work through my new test issues. I also learned that the Angular CLI and VS code don't do all the work for you. So Angular builds a spec file. VS Code will add certain lines to your code trying to help avoid simple reference errors. The issue I had is the spec file needed to import the `HttpClientModule` in order to test the service I had created. [Stack Overflow](https://stackoverflow.com/questions/48572621/angular-5-service-failing-to-pass-unit-tests-with-nullinjectorerror-no-provide) told me the answer and it worked.
 
-:floppy_disk: *Link to work:*
+:floppy_disk: *Link to work:* (`...\CodingWorkshop\Angular CLI practice\stripBartApi`)
 :egg:
 :beer:
 :sleeping::zzz:
@@ -20,7 +22,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 - Angular 7 BART API app
 - Angular testing
 
-:thought_balloon: *Thoughts:* I worked hard to figure out how Angular API connections work. I was stuck trying to use an Observable like a JSON object so I got weird errors. Once I read the [documentation](https://angular.io/guide/http) and example a few more times I realized what was happening. Things got easier after that. 
+:thought_balloon: *Thoughts:* I worked hard to figure out how Angular API connections work. I was stuck trying to use an Observable like a JSON object so I got weird errors. Once I read the [documentation](https://angular.io/guide/http) and example a few more times I realized what was happening. Things got easier after that. I also ran into a testing error that was strange. Tomorrow I will rebuild the simple app from scratch and see if it goes away.
 
 :floppy_disk: *Link to work:* ( `...\CodingWorkshop\Angular CLI practice\eastBayTravel` )
 :egg:
