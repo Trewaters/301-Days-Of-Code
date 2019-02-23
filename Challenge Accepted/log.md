@@ -2,6 +2,31 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 54: February 23, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- back to Angular 6 book. I never finished the main concepts.
+
+:thought_balloon: *Thoughts:* Brain melt from teh technical parts of angular like property vs attribute bindings. I will have to sleep on this thought.
+
+:floppy_disk: *Link to work:* Angular6 by example
+:egg:
+:beer:
+:sleeping::zzz:
+
+### Day 53: February 22, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked through some errors I ran into with unmock. Making it work with Jasmine was different but fruitful. Jasmine parses the modules differently so something that didn't cause a problem in Jest did in Jasmine. I also found that Jasmine will give errors trying to access module interfaces that haven't finished compiling when the test starts up. But if you let it sit for a minute it will retry and pass because those modules are loaded when the retry happens.
+
+:thought_balloon: *Thoughts:* I always feel I should be faster, more elegant, and smarter but I have to remember I know stuff. I was able to look at the Node.js source and start to see how Unmock overrode the http and httpClient modules to do some of the work it does.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 52: February 21, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:*

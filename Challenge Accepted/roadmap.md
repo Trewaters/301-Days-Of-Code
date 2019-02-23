@@ -4,7 +4,9 @@ List the items that are worth working on. Order from top to bottom. The top most
 
 ## Topics
 
-A list of topics I run across but don't have time for today. This will list them so I can come back to them and work on it later.
+*A list of topics I run across but don't have time for today. This will list them so I can come back to them and work on it later.*
+
+- (2/21/2019) - Blog about Angular Observable patterns, [found here](https://blog.eyas.sh/2018/12/use-asyncpipe-when-possible/?ref=stackshare). I heard about it on an [Adventures in Angular podcast](https://devchat.tv/adv-in-angular/aia-225-data-and-page-content-refresh-patterns-in-angular-with-eyas-sharaiha/).
 - (2/15/2019) - Tutorial to build 1st PWA, [found here](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html)
   - includes [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.html#0)
   - includes [Adding Push Notifications to a Web App](https://codelabs.developers.google.com/codelabs/push-notifications/#0)
