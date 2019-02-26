@@ -2,13 +2,36 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 56: February 25, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- BJD Kata
+
+:thought_balloon: *Thoughts:* Busy day. Trying to work on something today. This is perfect for BJD katas. The kata was great. I found the one to reverse array out of place. That really worked. I was able to stretch my coding muscle and still get a little code on the record.
+
+:floppy_disk: *Link to work:* BJD Kata Position #1 Option #1.
+:egg:
+:beer:
+:sleeping::zzz:
+
+### Day 55: February 24, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Angular 6 by example 
+
+:thought_balloon: *Thoughts:* Worked through more on directives in Angular. I didn't spend a lot of time coding today because I got worried about job hunting and spent time researching potential employers.
+
+:floppy_disk: *Link to work:* Angular6 by example
+:egg:
+:beer:
+:sleeping::zzz:
 
 ### Day 54: February 23, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 - back to Angular 6 book. I never finished the main concepts.
 
-:thought_balloon: *Thoughts:* Brain melt from teh technical parts of angular like property vs attribute bindings. I will have to sleep on this thought.
+:thought_balloon: *Thoughts:* Brain melt from the technical parts of angular like property vs attribute bindings. I will have to sleep on this thought.
 
 :floppy_disk: *Link to work:* Angular6 by example
 :egg:
