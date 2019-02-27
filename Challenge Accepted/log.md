@@ -8,7 +8,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 - Angular6 by example
 
-:thought_balloon: *Thoughts:*
+:thought_balloon: *Thoughts:* I had to cut my coding time short. Covered some Angular directives security and how to bypass it if necessary. I don't agree with bypassing security as an answer. I would struggle to find another way to get my desired results with the security in place. 
 
 :floppy_disk: *Link to work:* Angular6 by example
 :egg:
