@@ -2,6 +2,32 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 58: February 27, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Angular6 by example
+
+:thought_balloon: *Thoughts:*
+
+:floppy_disk: *Link to work:* Angular6 by example
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 57: February 26, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked on my presentation for WaffleJS. Looked at more directives in Angular6 by example.
+
+:thought_balloon: *Thoughts:* Today was a busy day. I got to code briefly. Went over another section of the Angular book. Most of the day was working on my Berkeley JavaScript Dojo presentation.
+
+:floppy_disk: *Link to work:* Angular6 by example
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 56: February 25, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
