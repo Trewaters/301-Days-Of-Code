@@ -2,6 +2,31 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 59: March 1, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- WaffleJS talk
+
+:thought_balloon: *Thoughts:*
+
+:floppy_disk: *Link to work:* 
+- https://github.com/wafflejs/wafflejs.github.io/pull/482
+:egg:
+:beer:
+:sleeping::zzz:
+
+### Day 58: February 28, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- updating github repo for WaffleJS
+
+:thought_balloon: *Thoughts:* I did the bare minimum of a few minutes today. I had to update a github repo for April talk. It is stored in a `.yml` file. If it hadn't been for that I might have not been able to count any coding today. Got busy.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
 
 ### Day 58: February 27, 2019
 
@@ -40,6 +65,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :beer:
 :sleeping::zzz:
 
+
 ### Day 55: February 24, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
@@ -52,6 +78,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :beer:
 :sleeping::zzz:
 
+
 ### Day 54: February 23, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
@@ -63,6 +90,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 :egg:
 :beer:
 :sleeping::zzz:
+
 
 ### Day 53: February 22, 2019
 
