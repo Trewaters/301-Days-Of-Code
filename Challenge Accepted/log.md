@@ -6,11 +6,13 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 - WaffleJS talk
+- use unmock for BART API test in Angular site
 
-:thought_balloon: *Thoughts:*
+:thought_balloon: *Thoughts:* I had to update my talk for WaffleJS it was too unclear. I also wanted to get more time with the unmock library so I am trying to add a test for it into my BART API site. I have a test test of it. Basically I adjusted their demo to work with Jasmine in Angular and that went well. Now I want to use it on the actual API I am trying to access. I got it started but ran out of time. We are travelling today and I need to get ready for the airport.
 
 :floppy_disk: *Link to work:* 
 - https://github.com/wafflejs/wafflejs.github.io/pull/482
+- `...\CodingWorkshop\Angular CLI practice\stripBartApi`
 :egg:
 :beer:
 :sleeping::zzz:
