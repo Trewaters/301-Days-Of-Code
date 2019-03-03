@@ -3,6 +3,17 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 61: March 3, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* adding unmock to Angular app to test API call.
+
+:thought_balloon: *Thoughts* Having some issues with adding unmock to the Angular API call. Learning to use TestBed for my service. I already added a test for a non service API call but it appears Angular has a module/class for testing services that are injected into components. Not finished but ran out of time this morning.
+
+:floppy_disk: *Link to work:* stripBartApi
+:egg:
+:beer:
+:sleeping::zzz:
+
 ### Day 60: March 2, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* Did a level on Hackerrank. Something to keep me coding even while travelling.
