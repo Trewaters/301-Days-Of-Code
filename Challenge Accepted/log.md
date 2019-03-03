@@ -2,6 +2,19 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+
+### Day 60: March 2, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Did a level on Hackerrank. Something to keep me coding even while travelling.
+
+:thought_balloon: *Thoughts:* I just did somehting with no background. I have been meaning to use website like Hackerrank to boost my confidence and remind me that I can code and it is fine. I keep talking myself into a negative space because I am not finding the job as quickly as I wanted to.
+
+:floppy_disk: *Link to work:* `https://www.hackerrank.com/trewaters`
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 59: March 1, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
