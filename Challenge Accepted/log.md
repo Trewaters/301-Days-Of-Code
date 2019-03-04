@@ -3,6 +3,19 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 62: March 4, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- inspecting Testbed in Angular to help with unmock tests in Angular
+
+:thought_balloon: *Thoughts:* I am getting closer to understanding what is happening but I am still missing something key to making it work. I get errors in my test. I removed a lot of the code and really wnat to start over. My incremental edits my be causing more issues than they are solving. Not many resources deal with testing services in Angular. I will return to this after a lunch break.
+
+:floppy_disk: *Link to work:* stripBartApi
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 61: March 3, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* adding unmock to Angular app to test API call.
