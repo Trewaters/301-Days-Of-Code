@@ -2,13 +2,72 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 66: March 10, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+
+:thought_balloon: *Thoughts:* 
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day -- : March 8, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* (Goal) Big thoughts!
+
+:thought_balloon: *Thoughts:* I didn't code because I was working on getting ready for a phone screening with Twilio. I did great on the phone screening!
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 65: March 7, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Working through Twilio documentation on their API for Node.js.
+
+:thought_balloon: *Thoughts:* Looked at their API and found some new code I hadn't seen before. Using a variable to drag "this" prototype into an inner function.
+
+:floppy_disk: *Link to work:* https://www.twilio.com/docs/sms/quickstart/node#allow-twilio-to-talk-to-your-nodejs-application-with-ngrok
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 64: March 6, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Troubleshooting and error with my Door Hanger app.
+
+:thought_balloon: *Thoughts:* Debugging and fixing issues from legacy application.
+
+:floppy_disk: *Link to work:* Door Hanger Database merge docs
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 63: March 5, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* HackerRank
+
+:thought_balloon: *Thoughts:* Building coding confidence. I feel like I know something, but I don't have that confidence. I get nervous when I look at code. It is like I am supposed to always be better than I am right now. I will get there but what path should I take to get there. I feel like hackerRank will help me buidl some of the confidence with JavaScript.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
 
 ### Day 62: March 4, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 - inspecting Testbed in Angular to help with unmock tests in Angular
 
-:thought_balloon: *Thoughts:* I am getting closer to understanding what is happening but I am still missing something key to making it work. I get errors in my test. I removed a lot of the code and really wnat to start over. My incremental edits my be causing more issues than they are solving. Not many resources deal with testing services in Angular. I will return to this after a lunch break.
+:thought_balloon: *Thoughts:* I am getting closer to understanding what is happening but I am still missing something key to making it work. I get errors in my test. I removed a lot of the code and really wnat to start over. My incremental edits my be causing more issues than they are solving. Not many resources deal with testing services in Angular. I will return to this after a lunch break. Never got back to it. I worked on HackerRank problems instead.
 
 :floppy_disk: *Link to work:* stripBartApi
 :egg:
