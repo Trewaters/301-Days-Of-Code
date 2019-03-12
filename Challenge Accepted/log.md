@@ -3,6 +3,21 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+### Day 68: March 12, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- HUGO [get started here](https://gohugo.io/getting-started/quick-start/)
+- HUGO tutorial [here](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce) FINISH THIS TODAY
+
+:thought_balloon: *Thoughts:* I got started on my JAMstack education. Can I say I have fallen in love with Go?! That is wild. I don't have time to start learning it now but I like what I am seeing so far. Sounds like it would be a pain to use on a Windows machine but I am okay with that... Gotta run, but I will back at it soon... I got back to it and it was blazingly simple. I made some silly copy and paste errors but once I got pass those everything was as advertised. Now time to read docs and try to do something with Twilio API so I can get ready for the interview.
+
+- idea! 💡! Use the HUGO ssg to create BJD swag printing website. Incorporate the Scalable Press API also.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
 ### Day 67: March 11, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
