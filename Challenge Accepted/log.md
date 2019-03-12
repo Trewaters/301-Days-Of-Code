@@ -2,11 +2,33 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
-### Day 66: March 10, 2019
+
+### Day 67: March 11, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
+- Finish Snipcart post, pick up where I left off yesterday.
+- Chris F. forEach article.
+- new SnipCart post on SSGs. 
 
-:thought_balloon: *Thoughts:* 
+:thought_balloon: *Thoughts:* Finished the other blog and that was great. I took a moment to work through a Chris F. post about the `Array.forEach` loop. That was insightful. Now I am back to JAMstack blogs. The JAMstack article is great but I am barely digging in, I think. Can't wait to get my fingers dirty tomorrow.
+
+:floppy_disk: *Link to work:*
+- Chris Ferdinandi [forEach post](https://gomakethings.com/how-array.foreach-works-under-the-hood-in-vanilla-js/)
+- SnipCart SSG [blog post](https://snipcart.com/blog/choose-best-static-site-generator)
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 66: March 10, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:*
+- Contentful demo for JAMstack content delivery.
+- Reading blogs to get updated.
+
+:thought_balloon: *Thoughts:* I spent time on the Contentful blog demo and came up with errors so I stopped. The demo should have been a few lines of git commmits and deploy but the site and instructions didn't match. I continued as far as I could go but they didn't teach me much and didn't show me anything but compile errors in axios. I am moving on to the next thing.
+
+Finish reading [this](https://snipcart.com/blog/jamstack)
 
 :floppy_disk: *Link to work:*
 :egg:
