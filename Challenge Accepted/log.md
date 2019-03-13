@@ -3,6 +3,22 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
+PICK UP with this on Thursday ( https://discourse.gohugo.io/t/dynamic-api-driven-content/7499 )
+
+### Day 69: March 13, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Worked on Twilio API. Pulled up the quickstart and really thought through what it was doing and how it was working.
+
+:thought_balloon: *Thoughts:* Focus on Twilio API in an JAMstack site. A quick search didn't reveal anything in the top 3 items returned. That means there might be a spot for me to fill.
+
+**Challenge I want to solve**: see text to me on my computer. When I am gaming or working with people it is hard to pull my phone out all the time. It causes a context switch that isn't pleasant. If I could get a phone number through Twilio, then use that number in my app I could build something that possibly sends text to my computer through the website or on my phone through a similar mechanism. Using the internet to bridge the devices. It seems silly that these things are only on the phone. The phone isn't a phone anymore. It is a computer/laptop/PDA/camera with a phone (telephony) built-in!!! UPSETTING
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
 ### Day 68: March 12, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
