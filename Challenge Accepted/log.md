@@ -3,7 +3,149 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
 
-PICK UP with this on Thursday ( https://discourse.gohugo.io/t/dynamic-api-driven-content/7499 )
+
+### Day 79: March 24, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Doing more work with Twilio Quest. 
+
+:thought_balloon: *Thoughts:* Twilio quest is a cute tutorial. They really breakdown all the material into very small units that can be accomplished quickly.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 78: March 23, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* I need to do something but I am sick. I had a 6 hour zoom board meeting and that wiped out my energy. I figure I should rest but I feel guilty about it so I will do a little task on Twilio quest and call it good.
+
+:thought_balloon: *Thoughts:* I made some progress with Twilio Quest. It uses more of the built in forms on Twilio. It didn't help me get through my own issue but I am learning more about Twilio even though I can't seem to make an AJAX call with it.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 77: March 22, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Twilio API
+
+:thought_balloon: *Thoughts:* I feel like I really need to get this API working with something that has less complication. Then I will work my way up to Angular. I started with working with a straight AJAX request and it keeps coming back with an unauthorized code but when I use postman it gets a 200 status code. This is very frustrating so I tried reading more and that didn't fix the issue. But I do know more about the HTTP request. Then I decided to use TwilioQuest so I could keep learning about their API. At this point I just need to keep pushing forward. I wonder if I upgraded my account if that would help.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 76: March 21, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Talked with Erick Wendel from Brazil about he grew his dev community in Brazil. [NerdZao](https://www.meetup.com/Nerdzao/)
+- Attended BayMeetup.com at ZenDesk. Learned about [Zendesk API](https://support.zendesk.com/hc/en-us/articles/231426867-Beginner-s-Guide-to-the-Zendesk-API). Heard another talk by [Amrita Jain](https://twitter.com/amritajain973) from Twitch. She talked about API design, microservices and GraphQL. Finally we heard from Brex a fintech company. His was interesting because he was showing how they are pushing the edges of their technology stack and need to improve it so they can scale more efficiently.
+
+:thought_balloon: *Thoughts:* It was a good night we didn't look at code as much design principles and examples of things they have done in their companies. It was a good day. What I gained from Erick that I will use is adding "free" to BJD. Document learning at BJD and try to grow the community by having them teach others what they have learned.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 75: March 20, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- finish and post blog, not much left
+- look at data structures and algorithms to cover with Joel
+- work with Joel on interview prep
+
+:thought_balloon: *Thoughts:*
+- blog only needed some slight polishing. I could have gone over it more and done more with it but I think it got the message across. I would consider it the minimal viable product.
+- looked at some data structures and it seemed pretty rudamentary but I still need to memorize more methods for arrays and such. Found a great repo for [JS algorithms](https://github.com/trekhleb/javascript-algorithms).
+- Worked with Joel. We figured out how array.prototype.reduce works and got past an error I found with some code from Chris F.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 74: March 19, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Spent 3 hours working on the JAMstack blog.
+
+:thought_balloon: *Thoughts:* I almost didn't count yesterday until I realized my time doesn't have to be solely coding. It can be reading and learning code. That really does happen almost everyday. I am constantly learning.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 73: March 18, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+
+:thought_balloon: *Thoughts:* I took a day off yesterday because I needed it. It makes the #301DaysOfCode longer (obviously) but this week was long and I enjoyed a little break. Before I break down. The key to success with this is to code early before I think about it. Too much thinking makes me miss my opportunity to code. In the future I will wake up and do a kata even if I don't feel like coding so I can keep the momentum. I thought about it and 301 Days let's you take 1 day off a week and extend your challenge to completion date to 352 days. Time adds up. This is a marathon and every step (day) counts.
+
+working on BJD JS Fundamentals. Added some basic information for my own knowledge and made improvements to the file. I plan on publishing the file in JAMstack so this is good time to clean it up.
+
+Twilio interview prep...
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 72: March 16, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Presenting what I know about the JAMstack at BJD today.
+
+:thought_balloon: *Thoughts:* I wanted to do a blog and publish it after this talk. But I also realized that I needed slides for a presentation and the blog isn't finished. Currently the blog post is a bunch of bulleted items I put together as I worked through some of the JAMstack concepts. It was fun but I envisioned I would be closer to finished by this point. The powerpoint could be better but it will work to anchor an presentation.
+
+:floppy_disk: *Link to work:* 
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 71: March 15, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* Had an interview this morning. Tough day to get some work done but I am working on it with the time I have left. 
+- I would like to finish getting my site deployed with Netlify.
+
+:thought_balloon: *Thoughts:*
+- Finish what I started yesterday. Deploying to Netlify... Working hard on this. I have an issue with showing the default list pages. They won't show up for me. I am reading more and more to try and fix this issue but I am running out of time.
+- forms
+- API 
+- JSON array data transformations
+- Node.js http ( https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/ )
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 70: March 14, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Promise-based XHR by Chris Ferdinandi (because I will be working with APIs today, goddess willing)
+- 
+
+:thought_balloon: *Thoughts:* I am feeling a lot of pressure to be better than I am. How do I start a day like that? Multiple rounds of coffee and self-doubt. Now it is time to **do something**. I will start with the basics, later than normal. I would normally do this at 6 am-ish, but it is 9:13 am now. I have to take responsibility for my actions and press on anyway. Forgot to update this with my progress. I looked over Hugo and almost got the site deployed on Netlify.
+
+:floppy_disk: *Link to work:*
+- promise based XHR work `...\Coding Work Study\JavaScript Exercises\webRoot\exercises\javascript\promised-basedXHR.js`
+:egg:
+:beer:
+:sleeping::zzz:
+
 
 ### Day 69: March 13, 2019
 
