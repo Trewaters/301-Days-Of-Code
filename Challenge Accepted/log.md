@@ -2,14 +2,44 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
+### Day 81: [Date]
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- [To Do] Work on Twilio Quest "all day long"
+
+:thought_balloon: *Thoughts:*
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 80: March 25, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- More Twilio prep
+- Interview prep with coding challenges.
+
+:thought_balloon: *Thoughts:* I started today great by working with TwilioQuest some more. Later I met with Joel H. and we covered a few code challenges. It was great to work through my anxiety by coding with someone else looking at my computer and asking me questions while I code.
+
+:floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
 
 
 ### Day 79: March 24, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
 - Doing more work with Twilio Quest. 
+- uninstall MS SQL Server from my laptop
+- figured out my hugo index issue. Found a workaround for it. I still need the index to list all the pages in the folder but I was able to update the config file back to it's original pointers and get the main about and showcase material to show.
+- also updated the meetup (April) title to match what the speaker likes.
 
-:thought_balloon: *Thoughts:* Twilio quest is a cute tutorial. They really breakdown all the material into very small units that can be accomplished quickly.
+:thought_balloon: *Thoughts:* 
+- Twilio quest is a cute tutorial. They really breakdown all the material into very small units that can be accomplished quickly.
+- I had to spend time removing SQL Server. I removed it because I don't use it on a regular basis and it can be an attack vector for viruses and malware if it is not monitored closely. I installed it in January 2019 because I was working on some stuff with the water district. I forgot it was installed until today. While looking through task manager I noticed it was running and that is a "trigger" for me. If you don't know you have a server running 1st step is to uninstall it. You (the owner) might not be the one in control of that server. If it comes back mysteriously then you know you have a problem. If not then good!
 
 :floppy_disk: *Link to work:*
 :egg:
