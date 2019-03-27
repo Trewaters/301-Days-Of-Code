@@ -2,14 +2,30 @@
 The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 ## Log
-### Day 81: [Date]
+
+
+### Day 82: March 27, 2019
 
 :sunrise_over_mountains::sunny: *Today's Progress:* 
-- [To Do] Work on Twilio Quest "all day long"
+- More TwilioQuest today
+- interview with Twilio
 
 :thought_balloon: *Thoughts:*
 
 :floppy_disk: *Link to work:*
+:egg:
+:beer:
+:sleeping::zzz:
+
+
+### Day 81: March 26, 2019
+
+:sunrise_over_mountains::sunny: *Today's Progress:* 
+- Work on Twilio Quest "all day long"
+
+:thought_balloon: *Thoughts:* I got through another mission. I got stuck on a couple simple things. It is disheartening to run into these type of issues, but I want to move forward. Consider those mistakes a learning experience.
+
+:floppy_disk: *Link to work:* TwilioQuest
 :egg:
 :beer:
 :sleeping::zzz:
@@ -23,7 +39,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 
 :thought_balloon: *Thoughts:* I started today great by working with TwilioQuest some more. Later I met with Joel H. and we covered a few code challenges. It was great to work through my anxiety by coding with someone else looking at my computer and asking me questions while I code.
 
-:floppy_disk: *Link to work:*
+:floppy_disk: *Link to work:* TwilioQuest
 :egg:
 :beer:
 :sleeping::zzz:
@@ -41,7 +57,7 @@ The daily log of Tre' Grisby's **#301DaysOfCode** challenge.
 - Twilio quest is a cute tutorial. They really breakdown all the material into very small units that can be accomplished quickly.
 - I had to spend time removing SQL Server. I removed it because I don't use it on a regular basis and it can be an attack vector for viruses and malware if it is not monitored closely. I installed it in January 2019 because I was working on some stuff with the water district. I forgot it was installed until today. While looking through task manager I noticed it was running and that is a "trigger" for me. If you don't know you have a server running 1st step is to uninstall it. You (the owner) might not be the one in control of that server. If it comes back mysteriously then you know you have a problem. If not then good!
 
-:floppy_disk: *Link to work:*
+:floppy_disk: *Link to work:* TwilioQuest
 :egg:
 :beer:
 :sleeping::zzz:
